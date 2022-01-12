@@ -16,6 +16,9 @@ classifiers = [
     "Operating System :: MacOS",
     "Operating System :: Unix",
 ]
+dependencies = [
+    "nox",
+]
 
 [project.urls]
 Home = "https://github.com/AliGhahraei/nox-tools"
