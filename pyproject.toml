@@ -5,7 +5,7 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "nox_tools"
 description = "Predefined sessions for nox"
-version = "0.1.0"
+version = "0.2.0"
 authors = [{name = "Ali Ghahraei Figueroa", email = "aligf94@gmail.com"}]
 readme = "README.md"
 license = {file = "LICENSE"}
