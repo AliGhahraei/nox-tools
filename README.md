@@ -1,3 +1,6 @@
+# NO LONGER MAINTAINED
+I stopped using pip-tools, which was the main motivation for this
+
 # nox-tools
 ## Predefined sessions for [nox](https://github.com/theacodes/nox)
 
